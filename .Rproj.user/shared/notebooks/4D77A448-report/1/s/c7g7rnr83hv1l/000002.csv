@@ -1,0 +1,4 @@
+"0","murders %>% mutate(abb = reorder(abb, rate)) %>%"
+"0","  ggplot(aes(abb, rate)) +"
+"0","  geom_bar(width = 0.5, stat = ""identity"", color = ""black"") +"
+"0","  coord_flip()"

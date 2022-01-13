@@ -1,0 +1,8 @@
+"0","knitr::opts_chunk$set(echo = TRUE)"
+"2","Warning message:
+"
+"2","In unloadNamespace(package) :"
+"2","
+ "
+"2"," namespace ‘htmltools’ is imported by ‘rmarkdown’ so cannot be unloaded
+"

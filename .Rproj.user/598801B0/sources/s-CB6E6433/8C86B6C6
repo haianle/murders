@@ -1,0 +1,28 @@
+{
+    "id": "8C86B6C6",
+    "path": "C:/Users/an.le/Documents/projects/murders/report.Rmd",
+    "project_path": "report.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1642113000740.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,30",
+        "scrollLine": "0",
+        "working_dir": "project",
+        "last_setup_crc32": "CB6E6433bb338d19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1642113414,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1642113887089,
+    "read_only": false,
+    "read_only_alternatives": []
+}
